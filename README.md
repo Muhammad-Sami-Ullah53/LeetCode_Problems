@@ -11,4 +11,8 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 <!---LeetCode Topics End-->
