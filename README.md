@@ -14,6 +14,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Divide and Conquer
 |  |
