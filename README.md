@@ -7,6 +7,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0231-power-of-two) |
 ## Recursion
