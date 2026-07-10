@@ -8,10 +8,12 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +34,16 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0231-power-of-two) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+## Sorting
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
