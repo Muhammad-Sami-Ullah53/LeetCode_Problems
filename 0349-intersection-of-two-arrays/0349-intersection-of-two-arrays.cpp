@@ -13,6 +13,7 @@ public:
                 }
            if(present) continue;
             for(int j=0; j<nums2.size(); j++){
+                
                 if(elem==nums2[j]){
                   ans.push_back(elem);
                   nums2[j]=-1;
