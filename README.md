@@ -10,6 +10,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
