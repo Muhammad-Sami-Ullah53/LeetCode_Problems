@@ -28,6 +28,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | [0007-reverse-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
@@ -69,5 +70,10 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
