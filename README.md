@@ -7,6 +7,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
@@ -58,6 +59,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
