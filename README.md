@@ -33,6 +33,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
@@ -63,6 +64,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
