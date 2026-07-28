@@ -35,6 +35,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
