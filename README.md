@@ -44,6 +44,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1323-maximum-69-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1323-maximum-69-number) |
+| [2235-add-two-integers](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2235-add-two-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
