@@ -23,6 +23,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -82,6 +83,7 @@ A curated repository of my LeetCode problem solutions in C++, showcasing algorit
 | [0410-split-array-largest-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1539-kth-missing-positive-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1539-kth-missing-positive-number) |
 ## Sorting
 |  |
 | ------- |
