@@ -24,6 +24,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [1470-shuffle-the-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1539-kth-missing-positive-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1539-kth-missing-positive-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -34,6 +35,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0001-two-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
 ## Math
 |  |
@@ -91,6 +93,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
 ## Prefix Sum
 |  |
