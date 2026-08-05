@@ -1,5 +1,5 @@
 # LeetCode_Problems
-A curated repository of my LeetCode problem solutions in C++, showcasing algorithmic thinking, problem-solving skills, and interview preparation across various difficulty levels.
+A curated repository of my LeetCode problems solution in C++, showcasing algorithmic thinking, problem-solving skills, and interview preparation across various difficulty levels.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
