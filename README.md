@@ -19,6 +19,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0704-binary-search](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -73,6 +74,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | ------- |
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
