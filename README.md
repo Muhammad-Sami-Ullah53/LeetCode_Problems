@@ -19,6 +19,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0704-binary-search](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
@@ -93,6 +94,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
@@ -132,4 +134,12 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
