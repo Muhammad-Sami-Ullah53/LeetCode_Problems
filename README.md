@@ -31,6 +31,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [1929-concatenation-of-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Hash Table
 |  |
 | ------- |
