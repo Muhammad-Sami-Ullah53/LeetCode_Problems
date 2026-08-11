@@ -26,6 +26,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
@@ -120,6 +121,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
+| [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
