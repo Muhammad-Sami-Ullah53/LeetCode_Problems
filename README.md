@@ -16,6 +16,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
+| [0506-relative-ranks](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0704-binary-search](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +100,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0506-relative-ranks](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -127,6 +129,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0506-relative-ranks) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
