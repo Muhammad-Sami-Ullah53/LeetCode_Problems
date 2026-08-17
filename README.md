@@ -33,6 +33,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
