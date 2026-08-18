@@ -5,9 +5,7 @@ public:
         int start=0;
         int end=size-1;
         while(start<=end){
-            swap(s[start],s[end]);
-            start++;
-            end--;
+            swap(s[start++],s[end--]);
         }
     }
 };
