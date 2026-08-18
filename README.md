@@ -83,6 +83,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | ------- |
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0344-reverse-string) |
@@ -133,6 +134,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
