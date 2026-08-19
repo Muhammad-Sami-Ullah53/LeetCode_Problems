@@ -128,6 +128,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -139,6 +140,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
@@ -167,4 +169,8 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1051-height-checker) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
