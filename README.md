@@ -139,6 +139,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0344-reverse-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -172,5 +173,6 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 ## Stack
 |  |
 | ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
