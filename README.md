@@ -10,6 +10,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0033-search-in-rotated-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1920-build-array-from-permutation](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1920-build-array-from-permutation) |
@@ -175,4 +177,8 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
