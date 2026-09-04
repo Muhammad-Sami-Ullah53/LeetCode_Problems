@@ -91,6 +91,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0344-reverse-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -142,6 +143,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 | [0125-valid-palindrome](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0412-fizz-buzz) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/1528-shuffle-string) |
@@ -156,6 +158,7 @@ A curated repository of my LeetCode problems solution in C++, showcasing algorit
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Muhammad-Sami-Ullah53/LeetCode_Problems/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
